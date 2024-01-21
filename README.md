@@ -1,4 +1,4 @@
-# Project Title
+# HOSPITALITY MANAGEMENT
 
 Brief description of your project.
 
