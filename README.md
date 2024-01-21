@@ -1,6 +1,7 @@
 # HOSPITALITY MANAGEMENT
 
-Brief description of your project.
+Analysis of Revenue Loss in AtliQ Grands' Five-Star Hotels
+
 
 ## Table of Contents
 - [Installation](#installation)
