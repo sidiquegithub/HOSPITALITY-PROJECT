@@ -91,4 +91,85 @@ Atliq Grands owns a collection of 25 five-star hotels situated in Mumbai, Delhi,
 
 
 
+
+
+
+
+
+<body>
+
+  <table>
+    <thead>
+      <tr>
+        <th>Column 1</th>
+        <th colspan="4">Columns 2 to 5</th>
+        <th colspan="3">Columns 6 to 8</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td rowspan="2">Merged Cells</td>
+        <td>Row 1</td>
+        <td>Row 1</td>
+        <td>Row 1</td>
+        <td>Row 1</td>
+        <td>Row 1</td>
+        <td>Row 1</td>
+        <td>Row 1</td>
+      </tr>
+      <tr>
+        <td>Row 2</td>
+        <td>Row 2</td>
+        <td>Row 2</td>
+        <td>Row 2</td>
+        <td>Row 2</td>
+        <td>Row 2</td>
+        <td>Row 2</td>
+      </tr>
+      <tr>
+        <td>Row 3</td>
+        <td>Row 3</td>
+        <td>Row 3</td>
+        <td>Row 3</td>
+        <td>Row 3</td>
+        <td>Row 3</td>
+        <td>Row 3</td>
+        <td>Row 3</td>
+      </tr>
+      <tr>
+        <td>Row 4</td>
+        <td>Row 4</td>
+        <td>Row 4</td>
+        <td>Row 4</td>
+        <td>Row 4</td>
+        <td>Row 4</td>
+        <td>Row 4</td>
+        <td>Row 4</td>
+      </tr>
+      <tr>
+        <td>Row 5</td>
+        <td>Row 5</td>
+        <td>Row 5</td>
+        <td>Row 5</td>
+        <td>Row 5</td>
+        <td>Row 5</td>
+        <td>Row 5</td>
+        <td>Row 5</td>
+      </tr>
+      <tr>
+        <td>Row 6</td>
+        <td>Row 6</td>
+        <td>Row 6</td>
+        <td>Row 6</td>
+        <td>Row 6</td>
+        <td>Row 6</td>
+        <td>Row 6</td>
+        <td>Row 6</td>
+      </tr>
+    </tbody>
+  </table>
+
+</body>
+
+
 ### DETAILS OF REPOSITORY
