@@ -11,81 +11,6 @@ Atliq Grands owns a collection of 25 five-star hotels situated in Mumbai, Delhi,
 
 
 
-<body>
-
-  <table>
-    <thead>
-      <tr>
-        <th>Column 1</th>
-        <th colspan="4">Columns 2 to 5</th>
-        <th colspan="4">Column 6 to  8</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td>Row 1</td>
-        <td>Row 1</td>
-        <td>Row 1</td>
-        <td>Row 1</td>
-        <td>Row 1</td>
-        <td>Row 1</td>
-        <td>Row 1</td>
-        <td>Row 1</td>
-      </tr>
-      <tr>
-        <td>Row 2</td>
-        <td>Row 2</td>
-        <td>Row 2</td>
-        <td>Row 2</td>
-        <td>Row 2</td>
-        <td>Row 2</td>
-        <td>Row 2</td>
-        <td>Row 2</td>
-      </tr>
-      <tr>
-        <td>Row 3</td>
-        <td>Row 3</td>
-        <td>Row 3</td>
-        <td>Row 3</td>
-        <td>Row 3</td>
-        <td>Row 3</td>
-        <td>Row 3</td>
-        <td>Row 3</td>
-      </tr>
-      <tr>
-        <td>Row 4</td>
-        <td>Row 4</td>
-        <td>Row 4</td>
-        <td>Row 4</td>
-        <td>Row 4</td>
-        <td>Row 4</td>
-        <td>Row 4</td>
-        <td>Row 4</td>
-      </tr>
-      <tr>
-        <td>Row 5</td>
-        <td>Row 5</td>
-        <td>Row 5</td>
-        <td>Row 5</td>
-        <td>Row 5</td>
-        <td>Row 5</td>
-        <td>Row 5</td>
-        <td>Row 5</td>
-      </tr>
-      <tr>
-        <td>Row 6</td>
-        <td>Row 6</td>
-        <td>Row 6</td>
-        <td>Row 6</td>
-        <td>Row 6</td>
-        <td>Row 6</td>
-        <td>Row 6</td>
-        <td>Row 6</td>
-      </tr>
-    </tbody>
-  </table>
-
-</body>
 
 
 
@@ -101,7 +26,7 @@ Atliq Grands owns a collection of 25 five-star hotels situated in Mumbai, Delhi,
   <table>
     <thead>
       <tr>
-        <th>Column 1</th>
+        <th> </th>
         <th colspan="4">Columns 2 to 5</th>
         <th colspan="3">Columns 6 to 8</th>
       </tr>
@@ -173,81 +98,7 @@ Atliq Grands owns a collection of 25 five-star hotels situated in Mumbai, Delhi,
 
 
 
-<body>
 
-  <table>
-    <thead>
-      <tr>
-        <th rowspan="2">Column 1</th>
-        <th colspan="4">Columns 2 to 5</th>
-        <th colspan="3">Columns 6 to 8</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td>Row 1</td>
-        <td>Row 1</td>
-        <td>Row 1</td>
-        <td>Row 1</td>
-        <td>Row 1</td>
-        <td>Row 1</td>
-        <td>Row 1</td>
-        <td>Row 1</td>
-      </tr>
-      <tr>
-        <td rowspan="5">Merged Cells</td>
-        <td>Row 2</td>
-        <td>Row 2</td>
-        <td>Row 2</td>
-        <td>Row 2</td>
-        <td>Row 2</td>
-        <td>Row 2</td>
-        <td>Row 2</td>
-      </tr>
-      <tr>
-        <td>Row 3</td>
-        <td>Row 3</td>
-        <td>Row 3</td>
-        <td>Row 3</td>
-        <td>Row 3</td>
-        <td>Row 3</td>
-        <td>Row 3</td>
-        <td>Row 3</td>
-      </tr>
-      <tr>
-        <td>Row 4</td>
-        <td>Row 4</td>
-        <td>Row 4</td>
-        <td>Row 4</td>
-        <td>Row 4</td>
-        <td>Row 4</td>
-        <td>Row 4</td>
-        <td>Row 4</td>
-      </tr>
-      <tr>
-        <td>Row 5</td>
-        <td>Row 5</td>
-        <td>Row 5</td>
-        <td>Row 5</td>
-        <td>Row 5</td>
-        <td>Row 5</td>
-        <td>Row 5</td>
-        <td>Row 5</td>
-      </tr>
-      <tr>
-        <td>Row 6</td>
-        <td>Row 6</td>
-        <td>Row 6</td>
-        <td>Row 6</td>
-        <td>Row 6</td>
-        <td>Row 6</td>
-        <td>Row 6</td>
-        <td>Row 6</td>
-      </tr>
-    </tbody>
-  </table>
-
-</body>
 
 
 ### DETAILS OF REPOSITORY
