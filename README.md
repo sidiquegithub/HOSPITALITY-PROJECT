@@ -8,6 +8,31 @@ AtliQ Grands, a prominent player in the hospitality industry, is currently exper
 ### ABOUT THE DATA SET
 Atliq Grands owns a collection of 25 five-star hotels situated in Mumbai, Delhi, Hyderabad, and Bangalore of India.
 
+<head>
+  <style>
+    table {
+      width: 100%;
+      border-collapse: collapse;
+    }
+
+    table, th, td {
+      border: 1px solid black;
+    }
+
+    th, td {
+      padding: 10px;
+      text-align: center;
+    }
+
+    /* Style for the PROPERTY ID row */
+    thead tr:first-child {
+      background-color: blue; /* Use color name */
+      color: white; /* Choose your preferred text color */
+      font-weight: bold;
+      text-align: center;
+    }
+  </style>
+</head>
 
 <body>
 
