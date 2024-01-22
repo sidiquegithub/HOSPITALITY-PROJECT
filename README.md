@@ -13,18 +13,18 @@ Atliq Grands owns a collection of 25 five-star hotels situated in Mumbai, Delhi,
 
   <table>
     <thead>
-      <tr>
-        <th></th>
-        <th colspan="4">LUXURY</th>
-        <th colspan="3">BUSINESS</th>
-      </tr>
-    </thead>
-    <tbody>
       <!-- Add a large row with the title "PROPERTY ID" above the header row -->
       <tr>
         <td colspan="8" style="font-weight: bold;">PROPERTY ID</td>
       </tr>
       <!-- Existing rows -->
+   </thead>
+    <tbody>
+      <tr>
+        <th></th>
+        <th colspan="4">LUXURY</th>
+        <th colspan="3">BUSINESS</th>
+      </tr>
       <tr>
         <td rowspan="2">Property Name / City</td>
         <td rowspan="2">Atliq Grands</td>
