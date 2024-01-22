@@ -15,20 +15,20 @@ Atliq Grands owns a collection of 25 five-star hotels situated in Mumbai, Delhi,
     <thead>
       <tr>
         <th> </th>
-        <th colspan="4">Columns 2 to 5</th>
-        <th colspan="3">Columns 6 to 8</th>
+        <th colspan="4">LUXURY</th>
+        <th colspan="3">BUSINESS</th>
       </tr>
     </thead>
     <tbody>
       <tr>
         <td rowspan="2">Property Name / City</td>
-        <td rowspan="2">Row 1</td>
-        <td rowspan="2">Row 1</td>
-        <td rowspan="2">Row 1</td>
-        <td rowspan="2">Row 1</td>
-        <td rowspan="2">Row 1</td>
-        <td rowspan="2">Row 1</td>
-        <td rowspan="2">Row 1</td>
+        <td rowspan="2">Atliq Grands</td>
+        <td rowspan="2">Atliq Exotica</td>
+        <td rowspan="2">Atliq Blu</td>
+        <td rowspan="2">Atliq Bay</td>
+        <td rowspan="2">Atliq City</td>
+        <td rowspan="2">Atliq Palace</td>
+        <td rowspan="2">Atliq Seasons</td>
       </tr>
       <tr></tr>
       <tr>
