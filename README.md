@@ -124,7 +124,8 @@ The other datasets presents details on hotel bookings, capturing the count of su
   
 ## ANALYSIS
 ### Analysis On Revenue
-- Total revenue generated
+Explore the analysis of total revenue generated and total revenue realaized by each property, each city and each room catagory 
 - [Initial anlysis.ipynb](https://github.com/sidiquegithub/HOSPITALITY-PROJECT/blob/main/CODE/INITIAL%20ANALYSIS.ipynb)
+- [Week wise revenue analysis.ipynb](https://github.com/sidiquegithub/HOSPITALITY-PROJECT/blob/main/CODE/ANALYSIS%20.ipynb)
 
 
