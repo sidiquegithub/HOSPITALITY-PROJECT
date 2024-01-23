@@ -117,4 +117,4 @@ Atliq Grands owns a collection of 25 five-star hotels situated in Mumbai, Delhi,
 
 
 
-### DETAILS OF REPOSITORY
+### HOW TO READ THIS REPOSITORY
