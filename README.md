@@ -5,10 +5,10 @@ Analysis of Revenue Loss in AtliQ Grands' Five-Star Hotels
 ## OVERVIEW
 AtliQ Grands, a prominent player in the hospitality industry, is currently experiencing a decline in revenue for its five-star hotels. This analysis aims to thoroughly investigate and understand the factors contributing to this revenue loss, enabling stakeholders to make informed decisions for strategic improvements.
 
-### ABOUT THE DATA SET
+## ABOUT THE DATA SET
 Atliq Grands owns a collection of 25 five-star hotels situated in Mumbai, Delhi, Hyderabad, and Bangalore of India.
 
-
+### Peoperties
 <body>
 
   <table>
@@ -81,6 +81,35 @@ Atliq Grands owns a collection of 25 five-star hotels situated in Mumbai, Delhi,
 
 </body>
 
+
+### Types of available rroms
+
+<body>
+
+  <table>
+    <thead>
+      <tr>
+        <th>Room ID</th>
+        <th>Room Class</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>RT1</td>
+        <td>Standard</td>
+      </tr>
+      <tr>
+        <td>RT2</td>
+        <td>Elite</td>
+      </tr>
+      <tr>
+        <td>RT3</td>
+        <td>Premium</td>
+      </tr>
+    </tbody>
+  </table>
+
+</body>
 
 
 
