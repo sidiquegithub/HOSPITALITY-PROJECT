@@ -124,6 +124,7 @@ The other datasets presents details on hotel bookings, capturing the count of su
   
 ## ANALYSIS
 ### Analysis On Revenue
-- Total revenue generated 
+- Total revenue generated
+- [Initial anlysis.ipynb](https://github.com/sidiquegithub/HOSPITALITY-PROJECT/blob/main/CODE/INITIAL%20ANALYSIS.ipynb)
 
 
