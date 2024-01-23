@@ -124,8 +124,12 @@ The other datasets presents details on hotel bookings, capturing the count of su
   
 ## ANALYSIS
 ### Analysis On Revenue
-Explore the analysis of total revenue generated and total revenue realaized by each property, each city and each room catagory 
-- [Initial anlysis.ipynb](https://github.com/sidiquegithub/HOSPITALITY-PROJECT/blob/main/CODE/INITIAL%20ANALYSIS.ipynb)
-- [Week wise revenue analysis.ipynb](https://github.com/sidiquegithub/HOSPITALITY-PROJECT/blob/main/CODE/ANALYSIS%20.ipynb)
+Explore the code at the following link for analyzing total revenue, encompassing both generated and realized figures across cities, properties, and room categories. 
+
+The following assessment provides both monthly breakdowns and an overall summary for the three-month period from May to July.
+- [Revenue Month.ipynb](https://github.com/sidiquegithub/HOSPITALITY-PROJECT/blob/main/CODE/INITIAL%20ANALYSIS.ipynb)
+
+The following will provide week wise analysis
+- [Revenue Week.ipynb](https://github.com/sidiquegithub/HOSPITALITY-PROJECT/blob/main/CODE/ANALYSIS%20.ipynb)
 
 
