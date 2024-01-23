@@ -116,6 +116,6 @@ Atliq Grands owns a collection of 25 five-star hotels situated in Mumbai, Delhi,
 
 We can mainly use two datasets. One of the datasets contains information on both the revenue generated and the revenue realized from each property. Additionally, it includes data on the booking status, indicating from which platform customers booked the hotel.
 
-The dataset presents details on hotel bookings, capturing the count of successful bookings and the total room capacity for each room category within various properties on a daily basis. 
+The other datasets presents details on hotel bookings, capturing the count of successful bookings and the total room capacity for each room category within various properties on a daily basis. 
 
 ### HOW TO READ THIS REPOSITORY
