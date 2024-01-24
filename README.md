@@ -114,6 +114,10 @@ Atliq Grands owns a collection of 25 five-star hotels situated in Mumbai, Delhi,
 </body>
 
 
+
+
+
+
 ## THE DATA SETS 
 
 ### Revenue
@@ -124,6 +128,9 @@ The other datasets presents details on hotel bookings, capturing the count of su
 - [fact_aggregated_bookings.csv](https://github.com/sidiquegithub/HOSPITALITY-PROJECT/blob/main/DATA/fact_aggregated_bookings.csv)
 
   
+
+
+
 ## ANALYSIS
 ### Analysis On Revenue
 Explore the code at the following links for analyzing total revenue, encompassing both generated and realized figures across cities, properties, and room categories. 
@@ -134,9 +141,17 @@ The following assessment provides both monthly breakdowns and an overall summary
 The following will provide week wise analysis
 - [Revenue Week.ipynb](https://github.com/sidiquegithub/HOSPITALITY-PROJECT/blob/main/CODE/ANALYSIS%20.ipynb)
 
+
+
+
+
+
 ## RESULTS AND SUGGESTIONS FROM ANALYSIS
 
-### Results 1: Revenue Genrated By Each City In Three Months
+## REVENUE FOR THREE MONTHS
+
+
+#### Results 1: Revenue Genrated By Each City In Three Months
 
 
 ![download](https://github.com/sidiquegithub/HOSPITALITY-PROJECT/assets/110783832/93d1a158-11a9-4176-9216-c4de01b5ef2a)
@@ -145,21 +160,22 @@ Mumbai generated highest revenue followed by Banglore, Hyderabad, Delhi.
 
 Each city generated an average revenue of 427192807.25 for the three months.
 
+
 ###### Consistency in Percentage of Revenue Realized:
 
 Across all cities (Bangalore, Delhi, Hyderabad, Mumbai), the percentage of revenue realized with respect to revenue generated is consistently around 85%. This suggests a common trend of achieving approximately 85% realization of the generated revenue.
 
-### Suggestions
+
+#### Suggestions
 The 85% benchmark can serve as a reference for evaluating future performance. Cities with percentages below this benchmark may need attention to enhance their revenue realization processes.
 
 Analyzing the factors contributing to the 15% difference between generated and realized revenue could uncover opportunities for optimization. 
 
-### Results 2: Revenue Genrated By Each Property In Three Months
 
+
+#### Results 2: Revenue Genrated By Each Property In Three Months
 
 ![download](https://github.com/sidiquegithub/HOSPITALITY-PROJECT/assets/110783832/9a75f139-a3a7-44b5-bc22-bb6b03054394)
-
-
 
 Atliq Exotica in Mumbai generated the highest revenue for the three months.
 Atliq Grands in Delhi generated the lowest revenue for the three monnths.
@@ -236,3 +252,8 @@ The percentage of revenue realized with respect to revenue generated is low for 
 
 </body>
 
+
+
+
+#### Result 3: Revenue From Each Room For Three Months
+![download](https://github.com/sidiquegithub/HOSPITALITY-PROJECT/assets/110783832/f40f655a-b1ab-4211-82f4-f358f60792ec)
