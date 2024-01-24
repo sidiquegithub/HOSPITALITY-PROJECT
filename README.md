@@ -136,7 +136,7 @@ The following will provide week wise analysis
 
 ## RESULTS AND SUGGESTIONS FROM ANALYSIS
 
-### Revenue Genrated By Each City In Three Months
+### Results 1: Revenue Genrated By Each City In Three Months
 
 
 ![download](https://github.com/sidiquegithub/HOSPITALITY-PROJECT/assets/110783832/93d1a158-11a9-4176-9216-c4de01b5ef2a)
@@ -149,12 +149,12 @@ Each city generated an average revenue of 427192807.25 for the three months.
 
 Across all cities (Bangalore, Delhi, Hyderabad, Mumbai), the percentage of revenue realized with respect to revenue generated is consistently around 85%. This suggests a common trend of achieving approximately 85% realization of the generated revenue.
 
-### SUGGETIONS
+### Suggestions
 The 85% benchmark can serve as a reference for evaluating future performance. Cities with percentages below this benchmark may need attention to enhance their revenue realization processes.
 
 Analyzing the factors contributing to the 15% difference between generated and realized revenue could uncover opportunities for optimization. 
 
-### Revenue Genrated By Each Property In Three Months
+### Results 2: Revenue Genrated By Each Property In Three Months
 
 
 ![download](https://github.com/sidiquegithub/HOSPITALITY-PROJECT/assets/110783832/9a75f139-a3a7-44b5-bc22-bb6b03054394)
