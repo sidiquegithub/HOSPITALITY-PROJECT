@@ -131,7 +131,7 @@ The other datasets presents details on hotel bookings, capturing the count of su
 
 
 
-## ANALYSIS
+## ANALYSIS (PYTHON CODE)
 ### Analysis On Revenue
 Explore the code at the following links for analyzing total revenue, encompassing both generated and realized figures across cities, properties, and room categories. 
 
