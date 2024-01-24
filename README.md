@@ -134,4 +134,7 @@ The following assessment provides both monthly breakdowns and an overall summary
 The following will provide week wise analysis
 - [Revenue Week.ipynb](https://github.com/sidiquegithub/HOSPITALITY-PROJECT/blob/main/CODE/ANALYSIS%20.ipynb)
 
+## RESULTS FROM ANALYSIS
+
+
 
