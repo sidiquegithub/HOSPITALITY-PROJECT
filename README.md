@@ -2,6 +2,10 @@
 
 Analysis of Revenue Loss in AtliQ Grands' Five-Star Hotels
 
+![image](https://github.com/sidiquegithub/HOSPITALITY-PROJECT/assets/110783832/9d717eca-398e-4a56-bbcf-98af7d700bae)
+
+
+
 
 
 ## OVERVIEW
