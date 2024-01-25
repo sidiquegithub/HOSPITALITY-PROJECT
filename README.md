@@ -152,6 +152,7 @@ The following will provide week wise analysis
 
 
 #### Results 1: Revenue Genrated By Each City In Three Months
+---------------------------------------------------------------------------------------
 
 
 ![download](https://github.com/sidiquegithub/HOSPITALITY-PROJECT/assets/110783832/93d1a158-11a9-4176-9216-c4de01b5ef2a)
@@ -174,6 +175,7 @@ Analyzing the factors contributing to the 15% difference between generated and r
 
 
 #### Results 2: Revenue Genrated By Each Property In Three Months
+-----------------------------------------------------------------------------------
 
 ![download](https://github.com/sidiquegithub/HOSPITALITY-PROJECT/assets/110783832/9a75f139-a3a7-44b5-bc22-bb6b03054394)
 
@@ -256,4 +258,7 @@ The percentage of revenue realized with respect to revenue generated is low for 
 
 
 #### Result 3: Revenue From Each Room For Three Months
-![download](https://github.com/sidiquegithub/HOSPITALITY-PROJECT/assets/110783832/f40f655a-b1ab-4211-82f4-f358f60792ec)
+----------------------------------------------------------------------------------------
+![download](https://github.com/sidiquegithub/HOSPITALITY-PROJECT/assets/110783832/f40f655a-b1ab-4211-82f4-f358f60792ec) 
+
+RT2 and RT3 are the best performing room categories, while RT1 is the least performing one.
